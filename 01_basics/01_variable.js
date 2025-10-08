@@ -20,3 +20,5 @@ because of issue in block scope and functional scope
 
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+              
+//Above statement is able to print all at once 
