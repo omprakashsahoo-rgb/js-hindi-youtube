@@ -1,12 +1,12 @@
 //let score = "33abc"
 // let score = "null"
 
-// console.log(typeof score)
-// console.log(typeof(score))
+// console.log(typeof score)  } Both same
+// console.log(typeof(score)) }
 
 // let valueInNumber = Number(score)
 // console.log(typeof valueInNumber);
-// console.log(valueInNumber);
+// console.log(valueInNumber); Output = Nan(33abc)
 
 // 33 => 33
 // "33abc" => NaN
