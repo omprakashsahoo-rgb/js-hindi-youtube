@@ -13,7 +13,7 @@ let age = 18
 let isLoggedIn = false
 let state;
 
-
+    //PRIMITIVE DATA TYPES
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -26,5 +26,5 @@ let state;
 // object
 
 console.log(typeof "hitesh")
-console.log(typeof undefined); //
+console.log(typeof undefined); //Undefined
 console.log(typeof null); //object
